@@ -1,0 +1,8 @@
+{
+  "name": "geowiki-module-edtf",
+  "description": "Support for EDTF (Extended date/time format) filters",
+  "main": "src/edtf.js",
+  "dependencies": {
+    "twig": "^1.17.1"
+  }
+}

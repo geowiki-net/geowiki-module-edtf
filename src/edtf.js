@@ -1,5 +1,5 @@
 const Twig = require('twig')
-const edtf = require('edtf')
+import edtf from 'edtf'
 
 Twig.extendFilter('edtf_min', value => {
   try {

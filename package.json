@@ -3,6 +3,7 @@
   "description": "Support for EDTF (Extended date/time format) filters",
   "main": "src/edtf.js",
   "dependencies": {
+    "edtf": "^4.6.0",
     "twig": "^1.17.1"
   }
 }
